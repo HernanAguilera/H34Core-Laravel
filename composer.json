@@ -11,6 +11,13 @@
             "H34\\Core\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "H34\\Core\\CoreServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "Hernan Aguilera",
