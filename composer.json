@@ -11,6 +11,11 @@
             "H34\\Core\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "H34\\Core\\Tests\\": "tests/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
